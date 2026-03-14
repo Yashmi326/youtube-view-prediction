@@ -11,7 +11,7 @@ Data Science Assignment 3 - YouTube View Count Prediction
 
 
 
-## Dataset
+# Dataset
 - **Source:** [YouTube Trending Videos — Kaggle](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 - **File Used:** USvideos.csv (US Trending Videos, 2017–2018)
 - **Original Rows:** 40,949 entries
