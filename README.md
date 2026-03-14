@@ -1,9 +1,6 @@
 # youtube-view-prediction
 Data Science Assignment 3 - YouTube View Count Prediction
 
-# YouTube View Count Prediction
-**Data Science Module — Assignment 3 | March 2026**
-
 
 
 ## Research Question
